@@ -61,7 +61,7 @@ body {
 .container {
 	display: inline-block;
 	width: 100%;
-	text-align: justify;
+	/*text-align: justify;*/
 }
 .container::after {
 	content: '';
